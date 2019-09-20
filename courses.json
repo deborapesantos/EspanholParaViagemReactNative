@@ -28,5 +28,65 @@
     "duration": 10,
     "classes": 10,
     "views": 3900
+  },
+  {
+    "title": "Curso AngularJs",
+    "tag": "angular",
+    "summary": "cursinho top de angularjs",
+    "description": "meu, é top mesmo. Faz ai",
+    "level": 2,
+    "duration": 30,
+    "classes": 12,
+    "views": 1200
+  },
+  {
+    "title": "Curso MVC BÁSICO",
+    "tag": "mvc",
+    "summary": "cursinho top de mvc",
+    "description": "Cara, faz mesmo viu é top mesmo. Faz ai",
+    "level": 2,
+    "duration": 40,
+    "classes": 9,
+    "views": 100
+  },
+  {
+    "title": "Curso CSS",
+    "tag": "css",
+    "summary": "cursinho top de CSS",
+    "description": "Vai fazer altas telinhas hein, top d+",
+    "level": 3,
+    "duration": 10,
+    "classes": 10,
+    "views": 3900
+  },
+  {
+    "title": "Curso AngularJs",
+    "tag": "angular",
+    "summary": "cursinho top de angularjs",
+    "description": "meu, é top mesmo. Faz ai",
+    "level": 2,
+    "duration": 30,
+    "classes": 12,
+    "views": 1200
+  },
+  {
+    "title": "Curso MVC BÁSICO",
+    "tag": "mvc",
+    "summary": "cursinho top de mvc",
+    "description": "Cara, faz mesmo viu é top mesmo. Faz ai",
+    "level": 2,
+    "duration": 40,
+    "classes": 9,
+    "views": 100
+  },
+  {
+    "title": "Curso CSS",
+    "tag": "css",
+    "summary": "cursinho top de CSS",
+    "description": "Vai fazer altas telinhas hein, top d+",
+    "level": 3,
+    "duration": 10,
+    "classes": 10,
+    "views": 3900
   }
 ]
